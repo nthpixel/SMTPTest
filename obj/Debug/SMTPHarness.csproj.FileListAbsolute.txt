@@ -1,0 +1,25 @@
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\bin\Debug\SMTPHarness.exe
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\bin\Debug\SMTPHarness.pdb
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\SMTPHarness.Properties.Resources.resources
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\SMTPHarness.csproj.GenerateResource.Cache
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\SMTPHarness.exe
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\SMTPHarness.pdb
+C:\Documents and Settings\pthok\My Documents\Project\TestHarnesses\SMTPServer\SMTPHarness\obj\Debug\SMTPHarness.SMTPTestHarness.resources
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.exe
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.pdb
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\bin\Debug\SMTPHarness.exe
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\bin\Debug\SMTPHarness.pdb
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.SMTPTestHarness.resources
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.Properties.Resources.resources
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\ResGen.read.1.tlog
+C:\Users\Peter\Documents\Project\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\ResGen.write.1.tlog
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.exe
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.pdb
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\bin\Debug\SMTPHarness.exe
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\bin\Debug\SMTPHarness.pdb
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.csprojResolveAssemblyReference.cache
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.SMTPTestHarness.resources
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.Properties.Resources.resources
+E:\ProjectBAK\20130316\TestHarnesses\TestHarneses\SMTPHarness\obj\Debug\SMTPHarness.csproj.GenerateResource.Cache
